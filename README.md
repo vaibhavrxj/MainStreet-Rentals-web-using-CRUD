@@ -15,7 +15,6 @@ This application is part of my learning journey, applying concepts learned throu
 ## 🚀 Live Demo
 
 [Click here to view the live version](https://devmountain.github.io/react-3-mini/)
-*(Note: This may point to the original hosted version. You can deploy your customized version to Vercel or Netlify for showcasing your own deployment.)*
 
 ![Demo Screenshot](https://github.com/DevMountain/react-3-mini/blob/solution/assets/1.png)
 
